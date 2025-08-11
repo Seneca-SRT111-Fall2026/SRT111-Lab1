@@ -1,6 +1,6 @@
 # Lab1
 # Submission Details
-In this lab you will create five simple scripts. Write the scripts in code spaces or clone the repository and open the files in VSCode. 
+In this lab you will create five simple scripts. Write the scripts in codespaces. 
 Please note that you must complete the lab during the class hours and show your progress to the professor to receive the marks for the lab.
 
 # Lab Objectives
@@ -9,16 +9,16 @@ Please note that you must complete the lab during the class hours and show your 
 ## Lab1a.py
 - Open the file lab1a.py.
 - The first three lines should be comments and display author name (you), name of the script (lab1a.py) and the description of the code.
-- Next, create a variable called `message`
-- Set the variable to equal to ‘Welcome to PRG101”
-- Print `message`
+- Next, create a variable called `message`.
+- Set the variable to equal to ‘Welcome to SRT111”.
+- Print the variable `message`.
 - Use the builtin `type()` function and print the type of this variable.
 - Add another print statement that uses the variable you just created and concatenate it with the statement “ Python is the future.”
 - Next create another variable called `x` and assign it the value 10.
 - Check its type using `type()` function.
 - In the next statement reassign x to the value "hello".
 - Check and print its type.
-- What did you observe?  
+- What did you observe?  Write your obervation in comments.
 
 
 ## Lab1b.py
