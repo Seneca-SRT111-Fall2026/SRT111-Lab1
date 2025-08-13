@@ -6,7 +6,11 @@ Please note that you must complete the lab during the class hours and show your 
 # Lab Objectives
 - Create and execute simple python scripts which require creating and initializing variables, using string methods, print() function, and simple arithmetic operations.
 
-## Lab1a.py
+## Lab1a.py - Variables, Dynamic Typing
+**Objective**: To understand how Python handles variable assignment and dynamic typing.
+
+**Instructions:**
+
 - Open the file lab1a.py.
 -  Add the following comments at the top of your script:
 ```python 
@@ -100,11 +104,9 @@ print("How are you {}? Happy {}th birthday!".format(name, age))
 **Instructions:** 
 
 - Open the file lab1e.py. Fill in the required fields in the comment section.
-- The script should include a variable called `quantity`.
-- The value of `quantity` should be a decimal number of your choice.
-- The script should also include a variable called `stock`.
-- The value of `stock` should be a decimal number inputted by the user.
-- Print the product of `quantity` and `stock` with 4 spaces before the answer using the module % formatting.
+- Create a variable called `quantity` and assign it a decimal value of your choice.
+- Prompt the user to enter a decimal value for a variable called `stock`.
+- Print the product of `quantity` and `stock` with 4 spaces before the answer using the % formatting.
 - Print the product of `quantity` and `stock` with 7 spaces before the answer and make sure the answer only goes to hundredths using the module % formatting.
 - - Run the script from the terminal.
 - Take a screenshot showing:
@@ -117,10 +119,12 @@ print("How are you {}? Happy {}th birthday!".format(name, age))
 
 
 ## Lab 1 Sign-Off
-- Submit the pdf document that has the name: "yoursenecausername_lab1". The document should include screenshots of the following scripts along with their terminal output, clearly showing your GitHub username.
-    - lab1a.py
-    - lab1b.py
-    - lab1c.py
-    - lab1d.py
-    - lab1e.py
-- Make sure the code and output are readable. Screenshots which are too small and are blurry will be returned for redo and the resubmission will be graded as 0.
+- Submit a PDF named using your Seneca username, like: jdoe_lab1.pdf on Blackbaord.
+- The document must include screenshots of the following scripts and their terminal output, clearly showing your GitHub username:
+  - lab1a.py
+  - lab1b.py
+  - lab1c.py
+  - lab1d.py
+  - lab1e.py
+- Ensure the code and output are clearly readable. Screenshots should be high-resolution (minimum 800x600) and not blurry.
+- Blurry or unreadable submissions will be returned for redo. Resubmissions will be only graded as "Satisfactory" with a grade of 0, provided the work is satisfactory. 
