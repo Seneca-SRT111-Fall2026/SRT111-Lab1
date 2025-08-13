@@ -93,9 +93,8 @@ print("How are you {}? Happy {}th birthday!".format(name, age))
 - Add this screenshot in a word document under the heading "**Lab1d**". 
 
 
+## Lab1e.py - Decimal Numbers & String Formatting
 
-
-## Lab1e.py
 - Fill in the required fields in the comment section.
 - The script should include a variable called `quantity`.
 - The value of `quantity` should be a decimal number of your choice.
