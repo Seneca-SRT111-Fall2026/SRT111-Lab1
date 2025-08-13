@@ -123,4 +123,4 @@ print("How are you {}? Happy {}th birthday!".format(name, age))
     - lab1c.py
     - lab1d.py
     - lab1e.py
-- Make sure the code and output are readable.  
+- Make sure the code and output are readable. Screenshots which are too small and are blurry will be returned for redo and the resubmission will be graded as 0.
