@@ -24,8 +24,7 @@ Please note that you must complete the lab during the class hours and show your 
 - Run the script from the terminal.
 - Take a screenshot showing:
   - Your code
-  - Terminal output
-  - Your GitHub username in the terminal.
+  - Terminal output. This should show your username in the terminal.
 - Add this screenshot in a word document under the heading "**Lab1a**". Later you will convert this word document as a pdf and submit it.
 
 
@@ -33,11 +32,9 @@ Please note that you must complete the lab during the class hours and show your 
 **Objective**: Practice using the input() function, type conversion, and basic arithmetic operations in Python.
 
 **Instructions:**
-- Fill in the required fields in the comment section.
 - The script should incorporate a variable called `num1` and take its value from user using input() function.
-- The script should have another variable named `num2`.
-- The value of `num2` should also be taken from user.
-- Convert the variables to integer using int() function.
+- The script should have another variable named `num2`. The value of `num2` should also be taken from user.
+- Convert the variables to float using the `float()` function.
 - Perform all the basic arithmatic operations on these two variables and print the output in the following format.
   ```Python
   num1 + num2 = ....
@@ -48,16 +45,28 @@ Please note that you must complete the lab during the class hours and show your 
   num1 // num2 = ....
   num1 % num2 = ....
   ```
+- Run the script from the terminal.
+- Take a screenshot showing:
+  - Your code
+  - Terminal output. This should show your username in the terminal.
+- Add this screenshot in a word document under the heading "**Lab1b**". 
+
   
 
-## Lab1c.py 
-- Fill in the required fields in the comment section.
+## Lab1c.py — Using the math Module to Calculate
+**Objective:** Learn how to import Python modules, take user input, perform type conversion, and use mathematical constants and formulas.
+**Instructions**
 - Import `math` module.
 - The script should include a variable `r`.
 - The value of `r` should be a number inputted from the user.
-- Convert `r` to an integer with `int()` function.
+- Convert `r` to an float with `float()` function.
 - Using the constant `pi` from `math` module and compute the area of a circle based on `r` being radius.
 - Then print the area to the user with the print function.
+- Run the script from the terminal.
+- Take a screenshot showing:
+  - Your code
+  - Terminal output. This should show your username in the terminal.
+- Add this screenshot in a word document under the heading "**Lab1c**". 
 
 ## Lab1d.py
 - Fill in the required fields in the comment section.
@@ -72,6 +81,12 @@ Please note that you must complete the lab during the class hours and show your 
 - Using negative indexing return the word "jumps" and "quick".
 - Return all charecturs in between index 2-15
 - Print "uick brown fox ju" from `words`
+- - Run the script from the terminal.
+- Take a screenshot showing:
+  - Your code
+  - Terminal output. This should show your username in the terminal.
+- Add this screenshot in a word document under the heading "**Lab1d**". 
+
 
 
 
@@ -83,6 +98,12 @@ Please note that you must complete the lab during the class hours and show your 
 - The value of `stock` should be a decimal number inputted by the user.
 - Print the product of `quantity` and `stock` with 4 spaces before the answer using the module % formatting.
 - Print the product of `quantity` and `stock` with 7 spaces before the answer and make sure the answer only goes to hundredths using the module % formatting.
+- - Run the script from the terminal.
+- Take a screenshot showing:
+  - Your code
+  - Terminal output. This should show your username in the terminal.
+- Add this screenshot in a word document under the heading "**Lab1e**". 
+
 
 
 
