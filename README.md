@@ -32,6 +32,7 @@ Please note that you must complete the lab during the class hours and show your 
 **Objective**: Practice using the input() function, type conversion, and basic arithmetic operations in Python.
 
 **Instructions:**
+- Open the file lab1b.py. Fill in the required fields in the comment section.
 - The script should incorporate a variable called `num1` and take its value from user using input() function.
 - The script should have another variable named `num2`. The value of `num2` should also be taken from user.
 - Convert the variables to float using the `float()` function.
@@ -56,6 +57,7 @@ Please note that you must complete the lab during the class hours and show your 
 ## Lab1c.py — Using the math Module to Calculate
 **Objective:** Learn how to import Python modules, take user input, perform type conversion, and use mathematical constants and formulas.
 **Instructions**
+- Open the file lab1c.py. Fill in the required fields in the comment section.
 - Import `math` module.
 - The script should include a variable `r`.
 - The value of `r` should be a number inputted from the user.
@@ -94,8 +96,10 @@ print("How are you {}? Happy {}th birthday!".format(name, age))
 
 
 ## Lab1e.py - Decimal Numbers & String Formatting
+**Objective:** Practice working with decimal numbers and formatting output using the % operator in Python.
+**Instructions:** 
 
-- Fill in the required fields in the comment section.
+- Open the file lab1e.py. Fill in the required fields in the comment section.
 - The script should include a variable called `quantity`.
 - The value of `quantity` should be a decimal number of your choice.
 - The script should also include a variable called `stock`.
@@ -113,11 +117,10 @@ print("How are you {}? Happy {}th birthday!".format(name, age))
 
 
 ## Lab 1 Sign-Off
-- Submit the screenshots of each individual script, the screenshot must show your scripts and command line interface and output.
-- The screenshot must also show your username on github codespaces.
-- Submit individual screenshots of the following scripts:
+- Submit the pdf document that has the name: "yoursenecausername_lab1". The document should include screenshots of the following scripts along with their terminal output, clearly showing your GitHub username.
     - lab1a.py
     - lab1b.py
     - lab1c.py
     - lab1d.py
-    - lab1e.py 
+    - lab1e.py
+- Make sure the code and output are readable.  
