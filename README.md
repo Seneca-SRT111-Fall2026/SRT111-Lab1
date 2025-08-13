@@ -1,10 +1,18 @@
 # Lab1
-# Submission Details
-In this lab you will create five simple scripts. Write the scripts in codespaces. 
-Please note that you must complete the lab during the class hours and show your progress to the professor to receive the marks for the lab.
+In this lab you will create five simple scripts. Write the scripts in codespaces. Thius lab requires students to create and execute simple python scripts which require creating and initializing variables, dynamic typing, using string methods, print() function, and simple arithmetic operations.
 
 # Lab Objectives
-- Create and execute simple python scripts which require creating and initializing variables, using string methods, print() function, and simple arithmetic operations.
+- Create and execute basic Python scripts using GitHub Codespaces.
+- Declare and initialize variables with different data types (e.g., strings, integers, floats).
+- Use built-in functions such as print(), type(), and input() to interact with the user and inspect data.
+- Apply string methods like .upper() and .format() for text manipulation and output formatting.
+- Perform arithmetic operations including addition, subtraction, multiplication, division, exponentiation, and modulus.
+- Use the math module to access mathematical constants and functions.
+- Understand and apply indexing and slicing to extract specific characters or substrings from a string.
+- Format numerical output using the % operator for alignment and precision control.
+- Observe Python’s dynamic typing behavior by reassigning variables and inspecting their types.
+- Document and present code execution results through screenshots and organized submission.
+
 
 ## Lab1a.py - Variables, Dynamic Typing
 **Objective**: To understand how Python handles variable assignment and dynamic typing.
