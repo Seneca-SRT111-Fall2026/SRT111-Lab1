@@ -18,24 +18,24 @@ Please note that you must complete the lab during the class hours and show your 
 - Check its type using `type()` function.
 - In the next statement reassign x to the value "hello".
 - Check and print its type.
-- What did you observe?  Write your obervation in comments.
+- What did you observe?  Write your observation in comments.
 
 
 ## Lab1b.py
 - Fill in the required fields in the comment section.
-- The script should incorparate a variable called `num1` and take its value from user using input() function.
+- The script should incorporate a variable called `num1` and take its value from user using input() function.
 - The script should have another variable named `num2`.
 - The value of `num2` should also be taken from user.
 - Convert the variables to integer using int() function.
 - Perform all the basic arithmatic operations on these two variables and print the output in the following format.
   ```Python
-  num1 + num = ....
-  num1 - num = ....
-  num1 * num = ....
-  num1 ** num = ....
-  num1 / num = ....
-  num1 // num = ....
-  num1 % num = ....
+  num1 + num2 = ....
+  num1 - num2 = ....
+  num1 * num2 = ....
+  num1 ** num2 = ....
+  num1 / num2 = ....
+  num1 // num2 = ....
+  num1 % num2 = ....
   ```
   
 
@@ -57,7 +57,7 @@ Please note that you must complete the lab during the class hours and show your 
 -	The value of `age` should be your age.
 -	The script, when executed, should print out "How are you yourname? Happy xxth birthday!" To print this output use .format() method.
 -	Next create a variable `words`.	The value of `words` should be "The quick brown fox jumps over the lazy dog".
-- Using indexing return the first and 17th charecters with print function.
+- Using indexing return the first and 17th characters with print function.
 - Using negative indexing return the word "jumps" and "quick".
 - Return all charecturs in between index 2-15
 - Print "uick brown fox ju" from `words`
@@ -65,13 +65,13 @@ Please note that you must complete the lab during the class hours and show your 
 
 
 ## Lab1e.py
-- Fill in the required feilds in the comment section.
+- Fill in the required fields in the comment section.
 - The script should include a variable called `quantity`.
 - The value of `quantity` should be a decimal number of your choice.
 - The script should also include a variable called `stock`.
 - The value of `stock` should be a decimal number inputted by the user.
 - Print the product of `quantity` and `stock` with 4 spaces before the answer using the module % formatting.
-- Print the product of `quantity` and `stock` with 7 spaces before the answer and make sure the answer only goes to hundreadths using the module % formatting.
+- Print the product of `quantity` and `stock` with 7 spaces before the answer and make sure the answer only goes to hundredths using the module % formatting.
 
 
 
