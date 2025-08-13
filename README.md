@@ -29,7 +29,9 @@ Please note that you must complete the lab during the class hours and show your 
 - Add this screenshot in a word document under the heading "**Lab1a**". Later you will convert this word document as a pdf and submit it.
 
 
-## Lab1b.py
+## Lab1b.py - User Input & Arithmetic Operations
+**Objective**: Practice using the input() function, type conversion, and basic arithmetic operations in Python.
+**Instructions:**
 - Fill in the required fields in the comment section.
 - The script should incorporate a variable called `num1` and take its value from user using input() function.
 - The script should have another variable named `num2`.
