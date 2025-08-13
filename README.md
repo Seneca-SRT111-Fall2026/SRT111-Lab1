@@ -7,26 +7,26 @@ Please note that you must complete the lab during the class hours and show your 
 - Create and execute simple python scripts which require creating and initializing variables, using string methods, print() function, and simple arithmetic operations.
 
 ## Lab1a.py
-- Open the file lab1a.py.
--  Add the following comments at the top of your script:
+1. Open the file lab1a.py.
+2.  Add the following comments at the top of your script:
 ```python 
 # Author: [Your Name]
 # Script Name: lab1a.py
 # Description: Demonstrates basic variable usage, string manipulation, and type checking in Python.
 ```
-- Create a variable called `message` and assign it a string value "Welcome to SRT111". Print the variable.
-- Use the builtin `type()` function and print the type of this variable.
-- Concatenate the variable `message` with another string and print the result, use the `+` for concatenation.
-- Create another variable called `x` and assign it the value 10.
-- Check its type using `type()` function.
-- In the next statement reassign x to the value "hello" and print its type again.
-- What did you observe?  Write your observation in comments.
-- Run the script from the terminal.
-- Take a screenshot showing:
+3. Create a variable called `message` and assign it a string value "Welcome to SRT111". Print the variable.
+4. Use the builtin `type()` function and print the type of this variable.
+5. Concatenate the variable `message` with another string and print the result, use the `+` for concatenation.
+6. Create another variable called `x` and assign it the value 10.
+7. Check its type using `type()` function.
+8. In the next statement reassign x to the value "hello" and print its type again.
+9. What did you observe?  Write your observation in comments.
+10. Run the script from the terminal.
+11. Take a screenshot showing:
   - Your code
   - Terminal output
   - Your GitHub username in the terminal.
-- Add this screenshot in a word document under the heading "**Lab1a**". Later you will convert this word document as a pdf and submit it.
+12. Add this screenshot in a word document under the heading "**Lab1a**". Later you will convert this word document as a pdf and submit it.
 
 
 ## Lab1b.py
