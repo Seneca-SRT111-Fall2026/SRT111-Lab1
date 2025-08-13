@@ -68,20 +68,25 @@ Please note that you must complete the lab during the class hours and show your 
   - Terminal output. This should show your username in the terminal.
 - Add this screenshot in a word document under the heading "**Lab1c**". 
 
-## Lab1d.py
-- Fill in the required fields in the comment section.
+## Lab1d.py — Strings, Indexing, and Formatting
+**Objective:** Practice working with strings, string methods, indexing, and formatted output in Python
+**Instructions:** 
+
+- Open the file lab1d.py. Fill in the required fields in the comment section.
 -	The script should include a variable called `name`.
--	The value of the `name` should be your name.
--	Use the string method `.upper()` to convert the name to upper case.
--	The script should also include a variable `age`.
--	The value of `age` should be your age.
--	The script, when executed, should print out "How are you yourname? Happy xxth birthday!" To print this output use .format() method.
+-	Create a variable called `name` and assign it your name.
+-	Use the string method `.upper()` to convert the name to upper case and print it.
+-	Create a variable called `age` and assign it your age:
+-	Print a birthday message using the .format() method. The message should be: "How are you yourname? Happy xxth birthday!" USe the following statement.
+  ``` python
+print("How are you {}? Happy {}th birthday!".format(name, age))
+```
 -	Next create a variable `words`.	The value of `words` should be "The quick brown fox jumps over the lazy dog".
 - Using indexing return the first and 17th characters with print function.
-- Using negative indexing return the word "jumps" and "quick".
-- Return all charecturs in between index 2-15
-- Print "uick brown fox ju" from `words`
-- - Run the script from the terminal.
+- Use negative indexing to extract and print the words "jumps" and "quick":
+- Print all charecturs in between index 2-15
+- Print "uick brown fox ju" from `words`.
+- Run the script from the terminal.
 - Take a screenshot showing:
   - Your code
   - Terminal output. This should show your username in the terminal.
