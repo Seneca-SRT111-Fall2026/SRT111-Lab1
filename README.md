@@ -28,21 +28,21 @@ For each task:
 6. **Submit the PDF file** as your final lab submission on Blackbaord.
 ---
 
-## Lab1a.py - Variables, Dynamic Typing
+## Task1 - Variables, Dynamic Typing
 **Objective**: To understand how Python handles variable assignment and dynamic typing.
 
 **Instructions:**
-- Open the file lab1a.py and fill in the comments.
+- Open the file `task1.py` and fill in the comments.
 - Create another variable called `x` and assign it the value 10.
 - Print the value of x and its type using the type() function.
 - In the next statement reassign x to the value "hello".
 - Print the new value of x and its type
 - In a comment, write your observation about how Python handles variable types.
 ---
-## Lab1b.py - String Concatenation
+## Task2 - String Concatenation
 **Objective**: Learn how to combine strings using the + operator
 **Instructions:**
-- Open the file lab1b.py and fill in the comments.
+- Open the file `task2.py` and fill in the comments.
 - Create a variable message and assign it the string "Welcome to SRT111".
 - Print the value of message.
 - Concatenate message with another string of your choice using the + operator and print the result.
@@ -50,11 +50,11 @@ For each task:
   
 ---
 
-## Lab1c.py - User Input & Arithmetic Operations
+## Task3 - User Input & Arithmetic Operations
 **Objective**: Practice using the input() function, type conversion, and basic arithmetic operations in Python.
 
 **Instructions:**
-- Open the file lab1c.py. Fill in the required fields in the comment section.
+- Create a new python file with name `task3.py` and add the required comments as you did in the last two tasks.
 - The script should incorporate a variable called `num1` and take its value from user using input() function.
 - The script should have another variable named `num2`. The value of `num2` should also be taken from user.
 - Convert the variables to float using the `float()` function.
@@ -69,12 +69,12 @@ For each task:
   num1 % num2 = ....
   ```
 - Run the script from the terminal.
-  
+--- 
 
-## Lab1d.py — Using the math Module to Calculate
+## Task4 — Using the math Module to Calculate
 **Objective:** Learn how to import Python modules, take user input, perform type conversion, and use mathematical constants and formulas.
 **Instructions**
-- Open the file lab1d.py. Fill in the required fields in the comment section.
+- Create a new python file for this task and give it a name following the convention of previous task files.
 - Import `math` module.
 - The script should include a variable `r`.
 - The value of `r` should be a number inputted from the user.
@@ -82,28 +82,36 @@ For each task:
 - Using the constant `pi` from `math` module and compute the area of a circle based on `r` being radius.
 - Then print the area to the user with the print function.
 - Run the script from the terminal.
-
-## Lab1e.py — Strings, Indexing, and Formatting
-**Objective:** Practice working with strings, string methods, indexing, and formatted output in Python
+---
+## Task 5 — Strings Formatting
+**Objective:** Practice working with strings, string methods, and formatted output in Python
+**Instructions:** 
+- Create a new python file for this task and give it a name following the convention of previous task files.
+- Create a variable called `name` and assign it your name.
+- Use the string method `.upper()` to convert the `name` to upper case and print it.
+- Create a variable called `age` and assign it your age:
+- Print a birthday message using the .format() method. The message should be: "How are you `yourname`? Happy xxth birthday!" USe the following statement.
+  ``` python
+   print("How are you {}? Happy {}th birthday!".format(name, age))
+   ```
+  - Run your script in the terminal to verify the output.
+---
+## Task 6 — Strings, Indexing, and Formatting
+**Objective:** Practice accessing individual characters and slices of a string
 **Instructions:** 
 
-- Open the file lab13.py. Fill in the required fields in the comment section.
--	The script should include a variable called `name`.
--	Create a variable called `name` and assign it your name.
--	Use the string method `.upper()` to convert the name to upper case and print it.
--	Create a variable called `age` and assign it your age:
--	Print a birthday message using the .format() method. The message should be: "How are you yourname? Happy xxth birthday!" USe the following statement.
-  ``` python
-print("How are you {}? Happy {}th birthday!".format(name, age))
-```
--	Next create a variable `words`.	The value of `words` should be "The quick brown fox jumps over the lazy dog".
+- Create a variable words with the value
+  ```Python
+     words = "The quick brown fox jumps over the lazy dog"
+  ```
 - Using indexing return the first and 17th characters with print function.
 - Use negative indexing to extract and print the words "jumps" and "quick":
 - Print all charecturs in between index 2-15
 - Print "uick brown fox ju" from `words`.
-- Run the script from the terminal.
+- Run the script from the terminal to verify the output.
+---
 
-## Lab1f.py - Decimal Numbers & String Formatting
+## Task 8 - Decimal Numbers & String Formatting
 **Objective:** Practice working with decimal numbers and formatting output using `.format()` and `{}` placeholders in Python.
 **Instructions:** 
 
@@ -119,12 +127,14 @@ print("How are you {}? Happy {}th birthday!".format(name, age))
 - Run your script from the terminal to verify the output.
 
 ## Lab 1 Sign-Off
-- Submit a PDF named using your Seneca username, like: jdoe_lab1.pdf on Blackbaord.
+- Submit a PDF named using your Seneca username, **<your-username>.pdf** on *Blackbaord*.
 - The document must include screenshots of the following scripts and their terminal output, clearly showing your GitHub username:
-  - lab1a.py
-  - lab1b.py
-  - lab1c.py
-  - lab1d.py
-  - lab1e.py
+    - task1.py
+    - task2.py
+    - task3.py
+    - task4.py
+    - task5.py
+    - task6.py
+    - task7.py
 - Ensure the code and output are clearly readable. Screenshots should be high-resolution (minimum 800x600) and not blurry.
-- Blurry or unreadable submissions will be returned for redo. Resubmissions will be only graded as "Satisfactory" with a grade of 0, provided the work is satisfactory. 
+- Blurry or unreadable submissions will be returned for redo. Resubmissions will only be graded as "**Satisfactory**" with a grade of 0, provided the work is satisfactory. 
