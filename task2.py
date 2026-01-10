@@ -4,5 +4,5 @@
 # Author:
 # Date:
 # Purpose: Use arithmetic in python.
-# Usage: ./lab1b.py
+# Usage: ./task2.py
 
