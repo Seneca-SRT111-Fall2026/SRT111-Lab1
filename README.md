@@ -1,6 +1,6 @@
 # Lab1
 
-In this lab you will create five simple scripts. Write the scripts in codespaces. This lab requires students to create and execute simple python scripts which require creating and initializing variables, dynamic typing, using string methods, print() function, and simple arithmetic operations.
+In this lab you will create seven simple scripts. Write the scripts in codespaces. This lab requires students to create and execute simple python scripts which require creating and initializing variables, dynamic typing, using string methods, print() function, and simple arithmetic operations.
 
 ---
 ## Lab Objectives
