@@ -111,7 +111,7 @@ For each task:
 - Run the script from the terminal to verify the output.
 ---
 
-## Task 8 - Decimal Numbers & String Formatting
+## Task 7 - Decimal Numbers & String Formatting
 **Objective:** Practice working with decimal numbers and formatting output using `.format()` and `{}` placeholders in Python.
 **Instructions:** 
 
@@ -126,7 +126,7 @@ For each task:
   - Print the product again, but this time rounded to two decimal places using {:.2f}:
 - Run your script from the terminal to verify the output.
 ---
-### Reflection Questions
+### Reflection
 At the end of your word docuemnt, answer the following questions in your own words. USe 2-4 sentences for each question.
 1. In your own words, what is **dynamic typing** in Python? How did you see it in action in these exercises?  
 2. What is the difference between **indexing** and **slicing** when working with strings?   
