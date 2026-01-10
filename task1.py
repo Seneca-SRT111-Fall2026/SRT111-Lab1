@@ -4,4 +4,4 @@
 # Author:
 # Date:
 # Purpose: Create a variable, check its type and print the variable.
-# Usage: ./lab1a.py
+# Usage: ./task1.py
