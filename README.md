@@ -94,7 +94,7 @@ For each task:
   ``` python
    print("How are you {}? Happy {}th birthday!".format(name, age))
    ```
-  - Run your script in the terminal to verify the output.
+- Run your script in the terminal to verify the output.
 ---
 ## Task 6 — Strings, Indexing, and Formatting
 **Objective:** Practice accessing individual characters and slices of a string
