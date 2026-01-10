@@ -5,5 +5,5 @@
 # Author:
 # Date:
 # Purpose: Use string methods and f-string formating.
-# Usage: ./lab1c.py
+# Usage: ./task3.py
 
