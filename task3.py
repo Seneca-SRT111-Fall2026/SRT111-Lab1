@@ -4,6 +4,6 @@
 #!/usr/bin/env python3
 # Author:
 # Date:
-# Purpose: Use string methods and f-string formating.
+# Purpose: perform arithmetic operations.
 # Usage: ./task3.py
 
