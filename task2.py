@@ -3,6 +3,6 @@
 #!/usr/bin/env python3
 # Author:
 # Date:
-# Purpose: Use arithmetic in python.
+# Purpose: Perform string concatenation.
 # Usage: ./task2.py
 
