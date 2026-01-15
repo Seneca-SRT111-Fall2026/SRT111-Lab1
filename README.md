@@ -33,10 +33,11 @@ For each task:
 
 **Instructions:**
 - Open the file `task1.py` and fill in the comments.
-- Create another variable called `x` and assign it the value 10.
+- Create a variable called `x` and assign it the value 10.
 - Print the value of x and its type using the type() function.
 - In the next statement reassign x to the value "hello".
-- Print the new value of x and its type
+- Print the new value of x and its type.
+- Run the script from terminal and observe the output.
 - In a comment, write your observation about how Python handles variable types.
 ---
 ## Task2 - String Concatenation
