@@ -107,7 +107,7 @@ For each task:
   ```
 - Using indexing return the first and 17th characters with print function.
 - Use negative indexing to extract and print the words "jumps" and "quick":
-- Print all charecturs in between index 2-15
+- Print all characters in between index 2-15
 - Print "uick brown fox ju" from `words`.
 - Run the script from the terminal to verify the output.
 ---
