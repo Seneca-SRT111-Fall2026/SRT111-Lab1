@@ -128,7 +128,7 @@ For each task:
 - Run your script from the terminal to verify the output.
 ---
 ### Reflection
-At the end of your word docuemnt, answer the following questions in your own words. USe 2-4 sentences for each question.
+At the end of your word docuemnt, answer the following questions in your own words. Use 2-4 sentences for each question.
 1. In your own words, what is **dynamic typing** in Python? How did you see it in action in these exercises?  
 2. What is the difference between **indexing** and **slicing** when working with strings?   
 3. What are your key takeaways from this lab? 
