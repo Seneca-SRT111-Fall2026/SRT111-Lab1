@@ -117,8 +117,8 @@ For each task:
 **Instructions:** 
 
 - Open a new file named `lab1f.py` (or open it if it already exists).
-- Create a variable quantity and assign it a decimal value of your choice.
-- Prompt the user to enter a decimal value for stock using input() and convert it to a float.
+- Create a variable `quantity` and assign it a decimal value of your choice.
+- Create a variable `stock` and get its value from the user using `input()` and convert it to a float.
 - **Format output using .format()**
   - Print the product of quantity and stock using {} placeholders using the following statement:
     ```Python
