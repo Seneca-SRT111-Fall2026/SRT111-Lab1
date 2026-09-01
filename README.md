@@ -190,16 +190,13 @@ Failure to include your username in the terminal screenshot may result in a grad
 
 - Create a file named `task8.py`.
 - Assign the variables shown below.
-    ```python
+``` Python
   x = 10
   y = 3
-  
   print("A:", x + y)
   print("B:", x / y)
- 
   x = "10"
   print("C:", x * 3)
-  
   name = "Python"
   print("D:", name[0])
   print("E:", name[-1])
