@@ -182,7 +182,37 @@ Failure to include your username in the terminal screenshot may result in a grad
     ```
   - Print the product again, but this time rounded to two decimal places using {:.2f}:
 - Run your script from the terminal to verify the output.
+
 ---
+
+## Task 8 - Expressions, Values, and Data Types
+**Objective:** Practice tracing Python code, understanding variable assignments, data types, arithmetic operations, and string manipulation.
+**Instructions:** 
+
+- Create a file named `task8.py`.
+- Assign the variables shown below.
+  ```python
+    x = 10
+    y = 3
+
+   print("A:", x + y)
+   print("B:", x / y)
+ 
+  x = "10"
+  print("C:", x * 3)
+
+ name = "Python"
+ print("D:", name[0])
+ print("E:", name[-1])
+ print("F:", name[1:4])
+ 
+ ```
+- Before running the program, add comments to the file predicting the output for each line labeled:
+- A
+
+
+---
+
 ### Reflection
 At the end of your word docuemnt, answer the following questions in your own words. Use 2-4 sentences for each question.
 1. In your own words, what is **dynamic typing** in Python? How did you see it in action in these exercises?  
