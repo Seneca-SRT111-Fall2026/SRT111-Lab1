@@ -29,16 +29,6 @@ Submitting AI-generated, copied, or shared solutions may result in a grade of ze
 - Execute Python programs from the VS Code terminal.
 - Document program execution with screenshots.
 
- ## Required File Header
-For every Python file created in this lab (task1.py, task2.py, etc.), include the following comment block at the top of the file:
-```Python
-# Author: Your Name
-# Date: YYYY-MM-DD
-# Purpose: Brief description of what the program does.
-# Usage: python ./task1.py
-```
-Update the Purpose and Usage lines appropriately for each task.
-
 
 ## Submission Instructions
 
@@ -61,6 +51,17 @@ For each task:
 5. Answer the reflection questions at the end of the lab.
 6. Convert the Word document to PDF.  Name the PDF file using your Seneca usernmae `yourusername.pdf`.
 7. Submit the PDF file as your final lab submission on Blackboard.
+
+ ## Required File Header
+For every Python file created in this lab (task1.py, task2.py, etc.), include the following comment block at the top of the file:
+```Python
+# Author: Your Name
+# Date: YYYY-MM-DD
+# Purpose: Brief description of what the program does.
+# Usage: python ./task1.py
+```
+Update the Purpose and Usage lines appropriately for each task.
+
 
 ---
 
