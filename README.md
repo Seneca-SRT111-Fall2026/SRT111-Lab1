@@ -1,5 +1,7 @@
-# SRT111 Lab 1 - Introduction to Python Programming
-### Professor: Tiayyba Riaz
+# SRT111 Lab 1 Fall 2026
+
+Introduction to Python Programming
+Professor: Tiayyba Riaz
 
 In this lab, you will create and execute several simple Python scripts to practice fundamental programming concepts. The lab is divided into two parts:
 
