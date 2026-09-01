@@ -7,6 +7,15 @@ In this lab, you will create and execute several simple Python scripts to practi
 
 This lab requires students to create and execute Python scripts that use variables, dynamic typing, user input, string methods, arithmetic operations, indexing, slicing, and formatted output.
 
+## Academic Integrity and Use of AI
+
+This lab is intended to assess your individual understanding of Python programming.
+You may use AI tools (e.g., ChatGPT, Copilot, Gemini) to help explain concepts or error messages. However, you **must not copy and paste lab questions or obtain complete solutions from AI tools**.
+
+All submitted code must be your own work. You must be able to explain your solution to the professor or TA if requested.
+
+Submitting AI-generated, copied, or shared solutions may result in a grade of zero and may be handled according to the College's Academic Integrity Policy.
+
 ## Lab Objectives
 - Create and execute basic Python scripts using VS Code or JupyterLab.
 - Declare and initialize variables with different data types.
