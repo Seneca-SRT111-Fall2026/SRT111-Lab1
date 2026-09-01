@@ -203,8 +203,13 @@ Failure to include your username in the terminal screenshot may result in a grad
   print("F:", name[1:4])
  ```
 - Before running the program, add comments to the file predicting the output for each line labeled:
-- A
-
+ - A
+ - B
+ - C
+ - D
+ - E
+- Run the program and compare the actual results with your predictions.
+- At the end of the file, answer the following questions in comments: Why does x * 3 work after x is reassigned to "10"?
 
 ---
 
