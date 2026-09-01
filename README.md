@@ -1,45 +1,70 @@
-# Lab1
+# Lab 1 - Introduction to Python Programming
 
-In this lab you will create seven simple scripts. Write the scripts in codespaces. This lab requires students to create and execute simple python scripts which require creating and initializing variables, dynamic typing, using string methods, print() function, and simple arithmetic operations.
+In this lab, you will create and execute several simple Python scripts to practice fundamental programming concepts. The lab is divided into two parts:
+
+- Part A: In-Class Lab (must be completed during the scheduled lab period and demonstrated to the professor for grading).
+- Part B: Take-Home Lab (must be completed independently after class using a local installation of VS Code).
+
+This lab requires students to create and execute Python scripts that use variables, dynamic typing, user input, string methods, arithmetic operations, indexing, slicing, and formatted output.
 
 ---
+
 ## Lab Objectives
-- Create and execute basic Python scripts using GitHub Codespaces.
-- Declare and initialize variables with different data types (e.g., strings, integers, floats).
-- Observe Python’s dynamic typing behavior by reassigning variables and inspecting their types.
-- Use built-in functions such as print(), type(), and input() to interact with the user and inspect data.
-- Apply string methods like .upper() and .format() for text manipulation and output formatting.
-- Perform arithmetic operations including addition, subtraction, multiplication, division, exponentiation, and modulus.
-- Use the math module to access mathematical constants and functions.
-- Understand and apply indexing and slicing to extract specific characters or substrings from a string.
-- Format numerical output using the % operator for alignment and precision control.
-- Document and present code execution results through screenshots and organized submission.
+- Create and execute basic Python scripts using VS Code or JupyterLab.
+- Declare and initialize variables with different data types.
+- Observe Python's dynamic typing behavior by reassigning variables and examining their types.
+- Use built-in functions such as print(), type(), and input().
+- Perform arithmetic operations using numeric data.
+- Import and use Python modules.
+- Apply string methods such as .upper() and .format().
+- Use indexing and slicing to access portions of strings.
+- Format numeric output for readability.
+- Execute Python programs from the VS Code terminal.
+- Document program execution with screenshots.
+ 
 ---
+
 # Submission Instructions
+## Part A: In-Class Lab
+- Complete all assigned in-class tasks during your scheduled lab.
+- Demonstrate your completed work to the professor before leaving the lab.
+- The professor may ask you to explain portions of your code.
+- No PDF submission is required for Part A unless otherwise instructed.
+
+## Part 8: Take-Home Lab
+
 For each task:
-1. **Write the script** in Codespaces.  
-2. **Run the script** from the **terminal**.  
-3. **Take a screenshot** that clearly shows:  
-   - Your **code** in the editor.  
-   - The **terminal output**, including your **username** visible in the terminal.  
-4. **Insert the screenshot** into a Word document under the heading that matches the task name:  
+1. Write and save your Python script in VS Code.  
+2. Run the script using the VS Code terminal
+3. Take a screenshot that clearly shows:  
+   - Your code in the editor.  
+   - The terminal output, including your username visible in the terminal.  
+4. Insert the screenshot into a Word document under the heading that matches the task name:  
    - Example: **Task1**, **Task2**, **Task3**, etc.
-5. After completing all tasks, **convert the Word document to PDF**.  Name the PDF file using your seneca usernmae `yourusername.pdf`.
-6. **Submit the PDF file** as your final lab submission on Blackbaord.
+5. Answer the reflection questions at the end of the lab.
+6. Convert the Word document to PDF.  Name the PDF file using your seneca usernmae `yourusername.pdf`.
+7. Submit the PDF file as your final lab submission on Blackbaord.
+
 ---
+
+# Part A - In-Class Lab (Demonstration Required)
 
 ## Task1 - Variables, Dynamic Typing
 **Objective**: To understand how Python handles variable assignment and dynamic typing.
 
 **Instructions:**
-- Open the file `task1.py` and fill in the comments.
+- Create a file named `task1.py`.
 - Create a variable called `x` and assign it the value 10.
-- Print the value of x and its type using the type() function.
+- Print:
+   - the value of x
+   - the type using the type() function.
 - In the next statement reassign x to the value "hello".
-- Print the new value of x and its type.
+- Print the new value of x and its new type.
 - Run the script from terminal and observe the output.
 - In a comment, write your observation about how Python handles variable types.
+
 ---
+
 ## Task2 - String Concatenation
 **Objective**: Learn how to combine strings using the + operator
 **Instructions:**
