@@ -73,7 +73,7 @@ For each task:
 - Concatenate message with another string of your choice using the + operator and print the result.
 - Run the script in the terminal to see the output.
   
----
+
 
 ## Task3 - User Input & Arithmetic Operations
 **Objective**: Practice using the input() function, type conversion, and basic arithmetic operations in Python.
@@ -94,7 +94,7 @@ For each task:
   num1 % num2 = ....
   ```
 - Run the script from the terminal.
---- 
+ 
 
 ## Task4 — Using the math Module to Calculate
 **Objective:** Learn how to import Python modules, take user input, perform type conversion, and use mathematical constants and formulas.
@@ -111,7 +111,7 @@ For each task:
 - Then print the area to the user with the print function.
 - Run the script from the terminal.
   
----
+
 ## Part A Sign-Off
 
 Before leaving the lab, demonstrate all four tasks to the professor.
