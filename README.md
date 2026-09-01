@@ -7,7 +7,7 @@ In this lab, you will create and execute several simple Python scripts to practi
 
 This lab requires students to create and execute Python scripts that use variables, dynamic typing, user input, string methods, arithmetic operations, indexing, slicing, and formatted output.
 
-# Lab Objectives
+## Lab Objectives
 - Create and execute basic Python scripts using VS Code or JupyterLab.
 - Declare and initialize variables with different data types.
 - Observe Python's dynamic typing behavior by reassigning variables and examining their types.
@@ -21,15 +21,15 @@ This lab requires students to create and execute Python scripts that use variabl
 - Document program execution with screenshots.
  
 
-# Submission Instructions
+## Submission Instructions
 
-## Part A: In-Class Lab
+### Part A: In-Class Lab
 - Complete all assigned in-class tasks during your scheduled lab.
 - Demonstrate your completed work to the professor before leaving the lab.
 - The professor may ask you to explain portions of your code.
 - No PDF submission is required for Part A unless otherwise instructed.
 
-## Part B: Take-Home Lab
+### Part B: Take-Home Lab
 
 For each task:
 1. Write and save your Python script in VS Code.  
@@ -45,9 +45,9 @@ For each task:
 
 ---
 
-# Part A - In-Class Lab (Demonstration Required)
+## Part A - In-Class Lab (Demonstration Required)
 
-## Task1 - Variables, Dynamic Typing
+### Task1 - Variables, Dynamic Typing
 **Objective**: To understand how Python handles variable assignment and dynamic typing.
 
 **Instructions:**
