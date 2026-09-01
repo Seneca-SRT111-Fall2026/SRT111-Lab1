@@ -61,7 +61,7 @@ For each task:
 - Run the script from terminal and observe the output.
 - In a comment, write your observation about how Python handles variable types.
 
----
+
 
 ## Task2 - String Concatenation
 **Objective**: Learn how to combine strings using the + operator
