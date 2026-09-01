@@ -1,9 +1,5 @@
 # SRT111 Lab 1 Fall 2026 - Introduction to Python Programming
 
-**Professor**: Tiayyba Riaz
-
----
-
 In this lab, you will create and execute several simple Python scripts to practice fundamental programming concepts. The lab is divided into two parts:
 
 - **Part A: In-Class Lab** (must be completed during the scheduled lab period and demonstrated to the professor for grading).
