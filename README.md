@@ -62,7 +62,6 @@ For every Python file created in this lab (task1.py, task2.py, etc.), include th
 ```
 Update the Purpose and Usage lines appropriately for each task.
 
-
 ---
 
 # Part A - In-Class Lab [50% marks]
