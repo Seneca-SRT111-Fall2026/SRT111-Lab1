@@ -112,14 +112,39 @@ For each task:
 - Run the script from the terminal.
   
 ---
+## Part A Sign-Off
+
+Before leaving the lab, demonstrate all four tasks to the professor.
+The professor will verify:
+
+- Script completion
+- Successful execution
+- Understanding of the code
+- Correct output
+
+Students who do not demonstrate their work during the lab period will not receive credit for Part A.
+
+----
+# Part B - Take-Home Lab
+All tasks in this section must be completed independently using a local installation of VS Code.
+For every task, you must provide screenshots showing:
+
+- The source code in VS Code.
+- The program output.
+- The VS Code terminal displaying your Seneca username.
+
+Failure to include your username in the terminal screenshot may result in a grade of zero for that task.
+
 ## Task 5 — Strings Formatting
 **Objective:** Practice working with strings, string methods, and formatted output in Python
 **Instructions:** 
-- Create a new python file for this task and give it a name following the convention of previous task files.
+
+- Create a file named task5.py.
 - Create a variable called `name` and assign it your name.
-- Use the string method `.upper()` to convert the `name` to upper case and print it.
+- Convert the value of name to uppercase using the `.upper()` method.
+- Print the uppercase version of the name
 - Create a variable called `age` and assign it your age:
-- Print a birthday message using the .format() method. The message should be: "How are you `yourname`? Happy xxth birthday!" USe the following statement.
+- Print a birthday message using the .format() method. The message should be: "How are you `yourname`? Happy xxth birthday!" Use the following statement.
   ``` python
    print("How are you {}? Happy {}th birthday!".format(name, age))
    ```
