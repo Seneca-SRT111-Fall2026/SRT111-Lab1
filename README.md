@@ -29,7 +29,6 @@ Submitting AI-generated, copied, or shared solutions may result in a grade of ze
 - Execute Python programs from the VS Code terminal.
 - Document program execution with screenshots.
  
-
 ## Submission Instructions
 
 ### Part A: In-Class Lab
@@ -54,7 +53,7 @@ For each task:
 
 ---
 
-## Part A - In-Class Lab (Demonstration Required)
+# Part A - In-Class Lab (Demonstration Required)
 
 ## Task1 - Variables, Dynamic Typing
 **Objective**: To understand how Python handles variable assignment and dynamic typing.
@@ -84,7 +83,7 @@ For each task:
   
 
 
-### Task3 - User Input & Arithmetic Operations
+## Task3 - User Input & Arithmetic Operations
 **Objective**: Practice using the input() function, type conversion, and basic arithmetic operations in Python.
 
 **Instructions:**
@@ -105,7 +104,7 @@ For each task:
 - Run the script from the terminal.
  
 
-### Task4 — Using the math Module to Calculate
+## Task4 — Using the math Module to Calculate
 **Objective:** Learn how to import Python modules, take user input, perform type conversion, and use mathematical constants and formulas.
 **Instructions**
 - Create a file named `task4.py`.
@@ -121,7 +120,7 @@ For each task:
 - Run the script from the terminal.
   
 
-### Part A Sign-Off
+## Part A Sign-Off
 
 Before leaving the lab, demonstrate all four tasks to the professor.
 The professor will verify:
@@ -134,7 +133,8 @@ The professor will verify:
 Students who do not demonstrate their work during the lab period will not receive credit for Part A.
 
 ----
-## Part B - Take-Home Lab
+
+# Part B - Take-Home Lab
 All tasks in this section must be completed independently using a local installation of VS Code.
 For every task, you must provide screenshots showing:
 
@@ -144,7 +144,7 @@ For every task, you must provide screenshots showing:
 
 Failure to include your username in the terminal screenshot may result in a grade of zero for that task.
 
-### Task 5 — Strings Formatting
+## Task 5 — Strings Formatting
 **Objective:** Practice working with strings, string methods, and formatted output in Python
 **Instructions:** 
 
@@ -159,7 +159,7 @@ Failure to include your username in the terminal screenshot may result in a grad
    ```
 - Run your script in the terminal to verify the output.
   
-### Task 6 — Strings, Indexing, and Formatting
+## Task 6 — Strings, Indexing, and Formatting
 **Objective:** Practice accessing individual characters and slices of a string
 **Instructions:** 
 
@@ -231,12 +231,10 @@ At the end of your word docuemnt, answer the following questions in your own wor
 ## Lab 1 Sign-Off
 - Submit a PDF named using your Seneca username, **<your-username>.pdf** on *Blackbaord*.
 - The document must include screenshots of the following scripts and their terminal output, clearly showing your GitHub username:
-    - task1.py
-    - task2.py
-    - task3.py
-    - task4.py
     - task5.py
     - task6.py
     - task7.py
+    - task7.py
+- After the screenshots, include your Reflections.
 - Ensure the code and output are clearly readable. Screenshots should be high-resolution (minimum 800x600) and not blurry.
 - Blurry or unreadable submissions will be returned for redo. Resubmissions will only be graded as "**Satisfactory**" with a grade of 0, provided the work is satisfactory. 
