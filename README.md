@@ -2,8 +2,8 @@
 
 In this lab, you will create and execute several simple Python scripts to practice fundamental programming concepts. The lab is divided into two parts:
 
-- Part A: In-Class Lab (must be completed during the scheduled lab period and demonstrated to the professor for grading).
-- Part B: Take-Home Lab (must be completed independently after class using a local installation of VS Code).
+- **Part A: In-Class Lab** (must be completed during the scheduled lab period and demonstrated to the professor for grading).
+- **Part B: Take-Home Lab** (must be completed independently after class using a local installation of VS Code).
 
 This lab requires students to create and execute Python scripts that use variables, dynamic typing, user input, string methods, arithmetic operations, indexing, slicing, and formatted output.
 
