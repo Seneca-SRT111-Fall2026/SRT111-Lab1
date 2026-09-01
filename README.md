@@ -53,7 +53,7 @@ For each task:
 
 ---
 
-# Part A - In-Class Lab (Demonstration Required)
+# Part A - In-Class Lab (Demonstration Required) [50% marks]
 
 ## Task 1 - Variables, Dynamic Typing
 **Objective:** To understand how Python handles variable assignment and dynamic typing.
@@ -134,7 +134,7 @@ Students who do not demonstrate their work during the lab period will not receiv
 
 ----
 
-# Part B - Take-Home Lab
+# Part B - Take-Home Lab [50% marks]
 All tasks in this section must be completed independently using a local installation of VS Code.
 For every task, you must provide screenshots showing:
 
