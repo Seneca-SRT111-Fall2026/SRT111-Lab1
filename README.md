@@ -63,7 +63,7 @@ For each task:
 
 
 
-## Task2 - String Concatenation
+### Task2 - String Concatenation
 **Objective**: Learn how to combine strings using the + operator
 
 **Instructions:**
@@ -75,7 +75,7 @@ For each task:
   
 
 
-## Task3 - User Input & Arithmetic Operations
+### Task3 - User Input & Arithmetic Operations
 **Objective**: Practice using the input() function, type conversion, and basic arithmetic operations in Python.
 
 **Instructions:**
@@ -96,7 +96,7 @@ For each task:
 - Run the script from the terminal.
  
 
-## Task4 — Using the math Module to Calculate
+### Task4 — Using the math Module to Calculate
 **Objective:** Learn how to import Python modules, take user input, perform type conversion, and use mathematical constants and formulas.
 **Instructions**
 - Create a file named `task4.py`.
@@ -112,7 +112,7 @@ For each task:
 - Run the script from the terminal.
   
 
-## Part A Sign-Off
+### Part A Sign-Off
 
 Before leaving the lab, demonstrate all four tasks to the professor.
 The professor will verify:
@@ -125,7 +125,7 @@ The professor will verify:
 Students who do not demonstrate their work during the lab period will not receive credit for Part A.
 
 ----
-# Part B - Take-Home Lab
+## Part B - Take-Home Lab
 All tasks in this section must be completed independently using a local installation of VS Code.
 For every task, you must provide screenshots showing:
 
@@ -135,11 +135,11 @@ For every task, you must provide screenshots showing:
 
 Failure to include your username in the terminal screenshot may result in a grade of zero for that task.
 
-## Task 5 — Strings Formatting
+### Task 5 — Strings Formatting
 **Objective:** Practice working with strings, string methods, and formatted output in Python
 **Instructions:** 
 
-- Create a file named task5.py.
+- Create a file named `task5.py`.
 - Create a variable called `name` and assign it your name.
 - Convert the value of name to uppercase using the `.upper()` method.
 - Print the uppercase version of the name
@@ -149,31 +149,34 @@ Failure to include your username in the terminal screenshot may result in a grad
    print("How are you {}? Happy {}th birthday!".format(name, age))
    ```
 - Run your script in the terminal to verify the output.
----
-## Task 6 — Strings, Indexing, and Formatting
+  
+### Task 6 — Strings, Indexing, and Formatting
 **Objective:** Practice accessing individual characters and slices of a string
 **Instructions:** 
 
-- Create a variable words with the value
+- Create a file named `task6.py`.
+- Create the following variable.
   ```Python
      words = "The quick brown fox jumps over the lazy dog"
   ```
-- Using indexing return the first and 17th characters with print function.
-- Use negative indexing to extract and print the words "jumps" and "quick":
-- Print all characters in between index 2-15
-- Print "uick brown fox ju" from `words`.
+- Using indexing print:
+ - the first character.
+ - the seventeenth character. 
+- Use slicing print the words "jumps" and "quick":
+- Print all characters between index position 2 and 15.
+- Print the substring: "uick brown fox ju".
 - Run the script from the terminal to verify the output.
----
+
 
 ## Task 7 - Decimal Numbers & String Formatting
 **Objective:** Practice working with decimal numbers and formatting output using `.format()` and `{}` placeholders in Python.
 **Instructions:** 
 
-- Open a new file named `lab1f.py` (or open it if it already exists).
-- Create a variable `quantity` and assign it a decimal value of your choice.
-- Create a variable `stock` and get its value from the user using `input()` and convert it to a float.
+- Create a file named `task7.py`.
+- Create a variable called `quantity` and assign it a decimal value of your choice.
+- Create a variable called `stock` and get its value from the user using `input()` and convert it to a float.
 - **Format output using .format()**
-  - Print the product of quantity and stock using {} placeholders using the following statement:
+  - Print the product of `quantity` and `stock` using {} placeholders using the following statement:
     ```Python
     print("Product: {}".format(quantity * stock))
     ```
