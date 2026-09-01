@@ -48,15 +48,15 @@ For each task:
 4. Insert the screenshot into a Word document under the heading that matches the task name:  
    - Example: **Task5**, **Task6**, **Task7**, etc.
 5. Answer the reflection questions at the end of the lab.
-6. Convert the Word document to PDF.  Name the PDF file using your seneca usernmae `yourusername.pdf`.
-7. Submit the PDF file as your final lab submission on Blackbaord.
+6. Convert the Word document to PDF.  Name the PDF file using your Seneca usernmae `yourusername.pdf`.
+7. Submit the PDF file as your final lab submission on Blackboard.
 
 ---
 
 # Part A - In-Class Lab (Demonstration Required)
 
-## Task1 - Variables, Dynamic Typing
-**Objective**: To understand how Python handles variable assignment and dynamic typing.
+## Task 1 - Variables, Dynamic Typing
+**Objective:** To understand how Python handles variable assignment and dynamic typing.
 
 **Instructions:**
 - Create a file named `task1.py`.
@@ -71,8 +71,8 @@ For each task:
 
 
 
-## Task2 - String Concatenation
-**Objective**: Learn how to combine strings using the + operator
+## Task 2 - String Concatenation
+**Objective:** Learn how to combine strings using the + operator
 
 **Instructions:**
 - Create a file named `task2.py`.
@@ -83,15 +83,15 @@ For each task:
   
 
 
-## Task3 - User Input & Arithmetic Operations
-**Objective**: Practice using the input() function, type conversion, and basic arithmetic operations in Python.
+## Task 3 - User Input & Arithmetic Operations
+**Objective:** Practice using the input() function, type conversion, and basic arithmetic operations in Python.
 
 **Instructions:**
 - Create a new python file named `task3.py`.
 - Create a variable named `num1` and obtain its value from the user using `input()`.
 - Create a variable named `num2` and obtain its value from the user using `input()`.
 - Convert both variables to float using the `float()` function.
-- Perform all the basic arithmatic operations on these two variables and print the output in the following format.
+- Perform all the basic arithmetic operations on these two variables and print the output in the following format.
   ```Python
   num1 + num2 = ....
   num1 - num2 = ....
@@ -104,7 +104,7 @@ For each task:
 - Run the script from the terminal.
  
 
-## Task4 — Using the math Module to Calculate
+## Task 4 — Using the math Module to Calculate
 **Objective:** Learn how to import Python modules, take user input, perform type conversion, and use mathematical constants and formulas.
 **Instructions**
 - Create a file named `task4.py`.
@@ -223,7 +223,7 @@ Failure to include your username in the terminal screenshot may result in a grad
 ---
 
 ### Reflection
-At the end of your word docuemnt, answer the following questions in your own words. Use 2-4 sentences for each question.
+At the end of your word document, answer the following questions in your own words. Use 2-4 sentences for each question.
 1. In your own words, what is **dynamic typing** in Python? How did you see it in action in these exercises?  
 2. What is the difference between **indexing** and **slicing** when working with strings?   
 3. What are your key takeaways from this lab? 
