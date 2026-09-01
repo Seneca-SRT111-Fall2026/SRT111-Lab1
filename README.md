@@ -1,6 +1,5 @@
-# SRT111 Lab 1 Fall 2026
+# SRT111 Lab 1 Fall 2026 - Introduction to Python Programming
 
-Introduction to Python Programming
 **Professor**: Tiayyba Riaz
 
 ---
