@@ -65,6 +65,7 @@ For each task:
 
 ## Task2 - String Concatenation
 **Objective**: Learn how to combine strings using the + operator
+
 **Instructions:**
 - Create a file named `task2.py`.
 - Create a variable called `message` and assign it the string "Welcome to SRT111".
