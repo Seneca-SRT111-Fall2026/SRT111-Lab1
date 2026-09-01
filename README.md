@@ -45,7 +45,7 @@ For each task:
 3. Take a screenshot that clearly shows:  
    - Your code in the editor.  
    - The terminal output, including your username visible in the terminal.  
-4. Insert the screenshot into a Word document under the heading that matches the task name:  
+4. Insert the screenshots into a Word document under the heading that matches the task name:  
    - Example: **Task5**, **Task6**, **Task7**, etc.
 5. Answer the reflection questions at the end of the lab.
 6. Convert the Word document to PDF.  Name the PDF file using your Seneca usernmae `yourusername.pdf`.
