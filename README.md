@@ -106,14 +106,14 @@ For each task:
 
 ## Task 4 — Using the math Module to Calculate
 **Objective:** Learn how to import Python modules, take user input, perform type conversion, and use mathematical constants and formulas.
-**Instructions**
+**Instructions:**
 - Create a file named `task4.py`.
 - Import `math` module.
 - Create a variable called `r`.
 - Obtain the value of `r` from user.
 - Convert the value `r` to float.
 - Using the constant `pi` from `math` module, compute the area of a circle based on `r` being radius. The formula to compute area of a circle with radius `r` is:
-  ``` python
+  ``` Python
   Area = π × r²
   ```
 - Then print the area to the user with the print function.
@@ -154,7 +154,7 @@ Failure to include your username in the terminal screenshot may result in a grad
 - Print the uppercase version of the name
 - Create a variable called `age` and assign it your age:
 - Print a birthday message using the .format() method. The message should be: "How are you `yourname`? Happy xxth birthday!" Use the following statement.
-  ``` python
+  ``` Python
    print("How are you {}? Happy {}th birthday!".format(name, age))
    ```
 - Run your script in the terminal to verify the output.
@@ -193,7 +193,7 @@ Failure to include your username in the terminal screenshot may result in a grad
 - Run your script from the terminal to verify the output.
 
 
-## Task 8 - Expressions, Values, and Data Types
+## Task 8 - Practice tracing Python code
 **Objective:** Practice tracing Python code, understanding variable assignments, data types, arithmetic operations, and string manipulation.
 **Instructions:** 
 
@@ -217,8 +217,9 @@ Failure to include your username in the terminal screenshot may result in a grad
   - C
   - D
   - E
+  - F
 - Run the program and compare the actual results with your predictions.
-- At the end of the file, answer the following questions in comments: Why does x * 3 work after x is reassigned to "10"?
+- Why does x * 3 work after x is reassigned to "10"?
 
 ---
 
