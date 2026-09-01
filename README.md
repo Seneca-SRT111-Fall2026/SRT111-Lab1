@@ -7,8 +7,6 @@ In this lab, you will create and execute several simple Python scripts to practi
 
 This lab requires students to create and execute Python scripts that use variables, dynamic typing, user input, string methods, arithmetic operations, indexing, slicing, and formatted output.
 
----
-
 ## Lab Objectives
 - Create and execute basic Python scripts using VS Code or JupyterLab.
 - Declare and initialize variables with different data types.
@@ -22,7 +20,6 @@ This lab requires students to create and execute Python scripts that use variabl
 - Execute Python programs from the VS Code terminal.
 - Document program execution with screenshots.
  
----
 
 # Submission Instructions
 ## Part A: In-Class Lab
