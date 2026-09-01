@@ -29,7 +29,7 @@ This lab requires students to create and execute Python scripts that use variabl
 - The professor may ask you to explain portions of your code.
 - No PDF submission is required for Part A unless otherwise instructed.
 
-## Part 8: Take-Home Lab
+## Part B: Take-Home Lab
 
 For each task:
 1. Write and save your Python script in VS Code.  
@@ -66,9 +66,9 @@ For each task:
 ## Task2 - String Concatenation
 **Objective**: Learn how to combine strings using the + operator
 **Instructions:**
-- Open the file `task2.py` and fill in the comments.
-- Create a variable message and assign it the string "Welcome to SRT111".
-- Print the value of message.
+- Create a file named `task2.py`.
+- Create a variable called `message` and assign it the string "Welcome to SRT111".
+- Print the value of `message`.
 - Concatenate message with another string of your choice using the + operator and print the result.
 - Run the script in the terminal to see the output.
   
@@ -78,10 +78,10 @@ For each task:
 **Objective**: Practice using the input() function, type conversion, and basic arithmetic operations in Python.
 
 **Instructions:**
-- Create a new python file with name `task3.py` and add the required comments as you did in the last two tasks.
-- The script should incorporate a variable called `num1` and take its value from user using input() function.
-- The script should have another variable named `num2`. The value of `num2` should also be taken from user.
-- Convert the variables to float using the `float()` function.
+- Create a new python file named `task3.py`.
+- Create a variable named `num1` and obtain its value from the user using `input()`.
+- Create a variable named `num2` and obtain its value from the user using `input()`.
+- Convert both variables to float using the `float()` function.
 - Perform all the basic arithmatic operations on these two variables and print the output in the following format.
   ```Python
   num1 + num2 = ....
@@ -98,14 +98,18 @@ For each task:
 ## Task4 — Using the math Module to Calculate
 **Objective:** Learn how to import Python modules, take user input, perform type conversion, and use mathematical constants and formulas.
 **Instructions**
-- Create a new python file for this task and give it a name following the convention of previous task files.
+- Create a file named `task4.py`.
 - Import `math` module.
-- The script should include a variable `r`.
-- The value of `r` should be a number inputted from the user.
-- Convert `r` to an float with `float()` function.
-- Using the constant `pi` from `math` module and compute the area of a circle based on `r` being radius.
+- Create a variable called `r`.
+- Obtain the value of `r` from user.
+- Convert the value `r` to float.
+- Using the constant `pi` from `math` module, compute the area of a circle based on `r` being radius. The formula to compute area of a circle with radius `r` is:
+  ``` python
+  Area = π × r²
+  ```
 - Then print the area to the user with the print function.
 - Run the script from the terminal.
+  
 ---
 ## Task 5 — Strings Formatting
 **Objective:** Practice working with strings, string methods, and formatted output in Python
