@@ -53,7 +53,7 @@ For each task:
 
 ---
 
-# Part A - In-Class Lab (Demonstration Required) [50% marks]
+# Part A - In-Class Lab [50% marks]
 
 ## Task 1 - Variables, Dynamic Typing
 **Objective:** To understand how Python handles variable assignment and dynamic typing.
