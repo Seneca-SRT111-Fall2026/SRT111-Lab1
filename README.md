@@ -56,7 +56,7 @@ For each task:
 
 ## Part A - In-Class Lab (Demonstration Required)
 
-### Task1 - Variables, Dynamic Typing
+## Task1 - Variables, Dynamic Typing
 **Objective**: To understand how Python handles variable assignment and dynamic typing.
 
 **Instructions:**
@@ -72,7 +72,7 @@ For each task:
 
 
 
-### Task2 - String Concatenation
+## Task2 - String Concatenation
 **Objective**: Learn how to combine strings using the + operator
 
 **Instructions:**
