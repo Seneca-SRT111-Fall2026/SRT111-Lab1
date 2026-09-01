@@ -228,13 +228,13 @@ At the end of your word docuemnt, answer the following questions in your own wor
 2. What is the difference between **indexing** and **slicing** when working with strings?   
 3. What are your key takeaways from this lab? 
 
-## Lab 1 Sign-Off
+## Part B Sign-Off
 - Submit a PDF named using your Seneca username, **<your-username>.pdf** on *Blackbaord*.
-- The document must include screenshots of the following scripts and their terminal output, clearly showing your GitHub username:
-    - task5.py
-    - task6.py
-    - task7.py
-    - task7.py
-- After the screenshots, include your Reflections.
+- Your PDF must include:
+    - Task 5 screenshot(s)
+    - Task 6 screenshot(s)
+    - Task 7 screenshot(s)
+    - Task 8 screenshot(s)
+    - Reflection questions
 - Ensure the code and output are clearly readable. Screenshots should be high-resolution (minimum 800x600) and not blurry.
 - Blurry or unreadable submissions will be returned for redo. Resubmissions will only be graded as "**Satisfactory**" with a grade of 0, provided the work is satisfactory. 
