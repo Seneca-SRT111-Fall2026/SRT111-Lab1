@@ -147,6 +147,7 @@ Students who do not demonstrate their work during the lab period will not receiv
 
 # Part B - Take-Home Lab [50% marks]
 All tasks in this section must be completed independently using a local installation of VS Code.
+Copy the folder Lab01 provided by the instructor in BB in your local `SRT111F2026` repo.
 For every task, you must provide screenshots showing:
 
 - The source code in VS Code.
@@ -154,6 +155,7 @@ For every task, you must provide screenshots showing:
 - The VS Code terminal displaying your Seneca username.
 
 Failure to include your username in the terminal screenshot may result in a grade of zero for that task.
+Once you complete all the tasks, push your work to GitHub.
 
 ## Task 5 — Strings Formatting
 **Objective:** Practice working with strings, string methods, and formatted output in Python
@@ -241,6 +243,7 @@ At the end of your word document, answer the following questions in your own wor
 3. What are your key takeaways from this lab? 
 
 ## Part B Sign-Off
+- Push your Lab01 folder to GitHub.
 - Submit a PDF named using your Seneca username, **<your-username>.pdf** on *Blackbaord*.
 - Your PDF must include:
     - Task 5 screenshot(s)
