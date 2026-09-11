@@ -1,22 +1,15 @@
-
 <div align="center">
 
-<p style="font-size: 48px; font-weight: bold; margin-bottom: 5px;">
-SRT111 Lab 1 (Fall 2026)
-</p>
-
-<p style="font-size: 20px; font-weight: bold; margin-top: 0;">
-Introduction to Python Programming
-</p>
+<h1>SRT111 Lab 1 (Fall 2026)</h1>
+<h2>Introduction to Python Programming</h2>
 
 <p>
-<strong>Created by:</strong> Tiayyba Riaz<br>
-<strong>Total Marks:</strong> 10<br>
+<strong>Created by:</strong> Tiayyba Riaz &nbsp; | &nbsp;
+<strong>Total Marks:</strong> 10 &nbsp; | &nbsp;
 <strong>Percentage Towards Final Grade:</strong> 2%
 </p>
 
 </div>
-
 
 In this lab, you will create and execute several simple Python scripts to practice fundamental programming concepts. The lab is divided into two parts:
 
