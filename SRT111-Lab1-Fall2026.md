@@ -157,8 +157,6 @@ Students who do not demonstrate their work during the lab period will not receiv
 ----
 
 # Part B - Take-Home Lab [50% marks]
-All tasks in this section must be completed independently using a local installation of VS Code.
-Copy the folder Lab01 provided by the instructor in BB in your local `SRT111F2026` repo.
 For every task, you must provide screenshots showing:
 
 - The source code in VS Code.
