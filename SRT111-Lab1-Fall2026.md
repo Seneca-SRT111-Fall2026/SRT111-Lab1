@@ -4,8 +4,8 @@
 <h2>Introduction to Python Programming</h2>
 
 <p>
-<strong>Created by:</strong> Tiayyba Riaz &nbsp; | &nbsp;
-<strong>Total Marks:</strong> 10 &nbsp; | &nbsp;
+<strong>Created by:</strong> Tiayyba Riaz 
+<strong>Total Marks:</strong>
 <strong>Percentage Towards Final Grade:</strong> 2%
 </p>
 
