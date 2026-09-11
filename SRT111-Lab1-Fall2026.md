@@ -140,7 +140,9 @@ Students who do not demonstrate their work during the lab period will not receiv
 ----
 
 # Part B - Take-Home Lab [60% marks]
-This section contains 4 tasks and some reflection questions. Each task carries 1.0 marks. Complete the following tasks independently after the scheduled lab using VS Code. 
+This section contains 4 tasks and some reflection questions. Each task carries 1.0 marks.
+
+Complete the following tasks independently after the scheduled lab using VS Code. 
 
 Before You Begin:
 - Open your local Git repository **`SRT111F2026`** on your computer.
