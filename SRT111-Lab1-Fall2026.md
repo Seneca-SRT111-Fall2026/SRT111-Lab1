@@ -51,7 +51,7 @@ Update the Purpose and Usage lines appropriately for each task.
 
 ---
 
-# Part A - In-Class Lab [40% marks]
+## Part A - In-Class Lab [40% marks]
 - Complete all assigned in-class tasks during your scheduled lab.
 - This part can be completed in Jupyter Lab or VS Code. You have choice.
 - Demonstrate your completed work to the professor before leaving the lab.
@@ -60,7 +60,7 @@ Update the Purpose and Usage lines appropriately for each task.
 - Each task carries 1.0 marks.
 
 
-## Task 1 - Variables, Dynamic Typing
+### Task 1 - Variables, Dynamic Typing
 **Objective:** To understand how Python handles variable assignment and dynamic typing.
 
 **Instructions:**
@@ -76,7 +76,7 @@ Update the Purpose and Usage lines appropriately for each task.
 
 
 
-## Task 2 - String Concatenation
+### Task 2 - String Concatenation
 **Objective:** Learn how to combine strings using the + operator
 
 **Instructions:**
@@ -88,7 +88,7 @@ Update the Purpose and Usage lines appropriately for each task.
   
 
 
-## Task 3 - User Input & Arithmetic Operations
+### Task 3 - User Input & Arithmetic Operations
 **Objective:** Practice using the input() function, type conversion, and basic arithmetic operations in Python.
 
 **Instructions:**
@@ -109,7 +109,7 @@ Update the Purpose and Usage lines appropriately for each task.
 - Run the script from the terminal.
  
 
-## Task 4 — Using the math Module to Calculate
+### Task 4 — Using the math Module to Calculate
 **Objective:** Learn how to import Python modules, take user input, perform type conversion, and use mathematical constants and formulas.
 **Instructions:**
 - Create a file named `task4.py`.
@@ -125,7 +125,7 @@ Update the Purpose and Usage lines appropriately for each task.
 - Run the script from the terminal.
   
 
-## Part A Sign-Off
+### Part A Sign-Off
 
 Before leaving the lab, demonstrate all four tasks to the professor.
 The professor will verify:
@@ -139,7 +139,7 @@ Students who do not demonstrate their work during the lab period will not receiv
 
 ----
 
-# Part B - Take-Home Lab [60% marks]
+## Part B - Take-Home Lab [60% marks]
 This section contains 4 tasks and some reflection questions. Each task carries 1.0 marks.
 
 Complete the following tasks independently after the scheduled lab using VS Code. 
@@ -156,7 +156,7 @@ Before You Begin:
       - The terminal output, including your username visible in the terminal.  
    - Insert the screenshots into a Word document under the heading. You will export this word document to PDF and submit it on Blackboard.
 
-## Task 5 — Strings Formatting
+### Task 5 — Strings Formatting
 **Objective:** Practice working with strings, string methods, and formatted output in Python
 **Instructions:** 
 
@@ -171,7 +171,7 @@ Before You Begin:
    ```
 - Run your script in the terminal to verify the output.
   
-## Task 6 — Strings, Indexing, and Formatting
+### Task 6 — Strings, Indexing, and Formatting
 **Objective:** Practice accessing individual characters and slices of a string
 **Instructions:** 
 
@@ -189,7 +189,7 @@ Before You Begin:
 - Run the script from the terminal to verify the output.
 
 
-## Task 7 - Decimal Numbers & String Formatting
+### Task 7 - Decimal Numbers & String Formatting
 **Objective:** Practice working with decimal numbers and formatting output using `.format()` and `{}` placeholders in Python.
 **Instructions:** 
 
@@ -205,7 +205,7 @@ Before You Begin:
 - Run your script from the terminal to verify the output.
 
 
-## Task 8 - Practice tracing Python code
+### Task 8 - Practice tracing Python code
 **Objective:** Practice tracing Python code, understanding variable assignments, data types, arithmetic operations, and string manipulation.
 **Instructions:** 
 
@@ -235,11 +235,13 @@ Before You Begin:
 
 ---
 
-## Reflection [20% marks]
+### Reflection [20% marks]
 At the end of your word document, answer the following questions in your own words. Use 2-4 sentences for each question.
 1. In your own words, what is **dynamic typing** in Python? How did you see it in action in these exercises?  
 2. What is the difference between **indexing** and **slicing** when working with strings?   
 3. What are your key takeaways from this lab? 
+
+---
 
 ## Part B Sign-Off
 - Commit and push your Lab01 folder to GitHub repo `SRT111F2026`.
