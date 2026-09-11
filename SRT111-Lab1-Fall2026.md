@@ -1,12 +1,12 @@
 
 <div align="center">
    
-# SRT111 Lab 1 (Fall 2026)
-## Introduction to Python Programming
-   
-**Created by:** Tiayyba Riaz  
-**Total Marks:** 10  
-**Percentage Towards Final Grade:** 2% 
+<h1>SRT111 Lab 1 (Fall 2026)</h1>
+<h2>Introduction to Python Programming</h2>
+
+<strong>Created by:</strong> Tiayyba Riaz<br>
+<strong>Total Marks:</strong> 10<br>
+<strong>Percentage Towards Final Grade:</strong> 2%
 
 </div>
 
