@@ -11,7 +11,7 @@
 
 In this lab, you will create and execute several simple Python scripts to practice fundamental programming concepts. The lab is divided into two parts:
 
-- **Part A: In-Class Lab** (must be completed during the scheduled lab period and demonstrated to the professor for grading).
+- **Part A: In-Class Lab** (must be completed during the scheduled lab period and demonstrated to the professor for grading. This part can be done in Jupyter Lab or VS Code).
 - **Part B: Take-Home Lab** (must be completed independently after class using a local installation of VS Code).
 
 This lab requires students to create and execute Python scripts that use variables, dynamic typing, user input, string methods, arithmetic operations, indexing, slicing, and formatted output.
@@ -157,11 +157,10 @@ Students who do not demonstrate their work during the lab period will not receiv
 ----
 
 # Part B - Take-Home Lab [50% marks]
-For every task, you must provide screenshots showing:
-
-- The source code in VS Code.
-- The program output.
-- The VS Code terminal displaying your Seneca username.
+Complete the following tasks independently after the scheduled lab using VS Code.
+For each task:
+- take screenshots showing both your code and program output.
+- Insert the screenshots into your submission document under the appropriate task heading
 
 Failure to include your username in the terminal screenshot may result in a grade of zero for that task.
 Once you complete all the tasks, push your work to GitHub.
@@ -245,14 +244,14 @@ Once you complete all the tasks, push your work to GitHub.
 
 ---
 
-### Reflection
+## Reflection
 At the end of your word document, answer the following questions in your own words. Use 2-4 sentences for each question.
 1. In your own words, what is **dynamic typing** in Python? How did you see it in action in these exercises?  
 2. What is the difference between **indexing** and **slicing** when working with strings?   
 3. What are your key takeaways from this lab? 
 
 ## Part B Sign-Off
-- Push your Lab01 folder to GitHub.
+- Push your Lab01 folder to GitHub repo.
 - Submit a PDF named using your Seneca username, **<your-username>.pdf** on *Blackbaord*.
 - Your PDF must include:
     - Task 5 screenshot(s)
