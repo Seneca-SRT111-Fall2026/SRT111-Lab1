@@ -46,6 +46,7 @@ Submitting AI-generated, copied, or shared solutions may result in a grade of ze
 - Demonstrate your completed work to the professor before leaving the lab.
 - The professor may ask you to explain portions of your code.
 - No PDF submission is required for Part A unless otherwise instructed.
+- Each task carries 1.25 marks.
 
 ### Part B: Take-Home Lab
 
@@ -60,6 +61,7 @@ For each task:
 5. Answer the reflection questions at the end of the lab.
 6. Convert the Word document to PDF.  Name the PDF file using your Seneca usernmae `yourusername.pdf`.
 7. Submit the PDF file as your final lab submission on Blackboard.
+8. Each task carries 1.25 marks.
 
  ## Required File Header
 For every Python file created in this lab (task1.py, task2.py, etc.), include the following comment block at the top of the file:
