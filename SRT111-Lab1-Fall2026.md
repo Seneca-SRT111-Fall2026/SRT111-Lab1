@@ -5,6 +5,7 @@
 **Total Marks:** 10
 **Percentage Towards Final Grade:** 2%
 </div>
+
 In this lab, you will create and execute several simple Python scripts to practice fundamental programming concepts. The lab is divided into two parts:
 
 - **Part A: In-Class Lab** (must be completed during the scheduled lab period and demonstrated to the professor for grading).
