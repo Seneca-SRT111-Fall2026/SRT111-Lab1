@@ -39,15 +39,14 @@ Submitting AI-generated, copied, or shared solutions may result in a grade of ze
 - Document program execution with screenshots.
 
 
- ## Required File Header
-For every Python file created in this lab (task1.py, task2.py, etc.), include the following comment block at the top of the file. If you are working in Jupyter Lab for part A, complete each task in a separate cell and add these comments at the top of the cell. Ignore the last `usage` line in this case.
+ ## Required Comment Header
+For every script created in this lab  include the following comment block at the top of the file/cell. 
 ```Python
 # Author: Your Name
 # Date: YYYY-MM-DD
 # Purpose: Brief description of what the program does.
 # Usage: python ./task1.py
 ```
-Update the Purpose and Usage lines appropriately for each task.
 
 ---
 
