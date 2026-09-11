@@ -11,8 +11,8 @@
 
 In this lab, you will create and execute several simple Python scripts to practice fundamental programming concepts. The lab is divided into two parts:
 
-- **Part A: In-Class Lab** (must be completed during the scheduled lab period and demonstrated to the professor for grading. This part can be done in Jupyter Lab or VS Code).
-- **Part B: Take-Home Lab** (must be completed independently after class using a local installation of VS Code).
+- **Part A: In-Class Lab** (must be completed during the scheduled lab period and demonstrated to the professor for grading. ).
+- **Part B: Take-Home Lab** (can be completed independently after thescheduled class).
 
 This lab requires students to create and execute Python scripts that use variables, dynamic typing, user input, string methods, arithmetic operations, indexing, slicing, and formatted output.
 
@@ -39,32 +39,8 @@ Submitting AI-generated, copied, or shared solutions may result in a grade of ze
 - Document program execution with screenshots.
 
 
-## Submission Instructions
-
-### Part A: In-Class Lab
-- Complete all assigned in-class tasks during your scheduled lab.
-- Demonstrate your completed work to the professor before leaving the lab.
-- The professor may ask you to explain portions of your code.
-- No PDF submission is required for Part A unless otherwise instructed.
-- Each task carries 1.25 marks.
-
-### Part B: Take-Home Lab
-
-For each task:
-1. Write and save your Python script in VS Code.  
-2. Run the script using the VS Code terminal
-3. Take a screenshot that clearly shows:  
-   - Your code in the editor.  
-   - The terminal output, including your username visible in the terminal.  
-4. Insert the screenshots into a Word document under the heading that matches the task name:  
-   - Example: **Task5**, **Task6**, **Task7**, etc.
-5. Answer the reflection questions at the end of the lab.
-6. Convert the Word document to PDF.  Name the PDF file using your Seneca usernmae `yourusername.pdf`.
-7. Submit the PDF file as your final lab submission on Blackboard.
-8. Each task carries 1.25 marks.
-
  ## Required File Header
-For every Python file created in this lab (task1.py, task2.py, etc.), include the following comment block at the top of the file:
+For every Python file created in this lab (task1.py, task2.py, etc.), include the following comment block at the top of the file. If you are working in Jupyter Lab for part A, complete each task in a separate cell and add these comments at the top of the cell. Ignore the last `usage` line in this case.
 ```Python
 # Author: Your Name
 # Date: YYYY-MM-DD
@@ -75,7 +51,14 @@ Update the Purpose and Usage lines appropriately for each task.
 
 ---
 
-# Part A - In-Class Lab [50% marks]
+# Part A - In-Class Lab [40% marks]
+- Complete all assigned in-class tasks during your scheduled lab.
+- This part can be completed in Jupyter Lab or VS Code. You have choice.
+- Demonstrate your completed work to the professor before leaving the lab.
+- The professor may ask you to explain portions of your code.
+- No PDF submission is required for Part A unless otherwise instructed.
+- Each task carries 1.0 marks.
+
 
 ## Task 1 - Variables, Dynamic Typing
 **Objective:** To understand how Python handles variable assignment and dynamic typing.
@@ -156,14 +139,20 @@ Students who do not demonstrate their work during the lab period will not receiv
 
 ----
 
-# Part B - Take-Home Lab [50% marks]
-Complete the following tasks independently after the scheduled lab using VS Code.
-For each task:
-- take screenshots showing both your code and program output.
-- Insert the screenshots into your submission document under the appropriate task heading
+# Part B - Take-Home Lab [60% marks]
+This section contains 4 tasks and some reflection questions. Each task carries 1.0 marks. Complete the following tasks independently after the scheduled lab using VS Code. 
 
-Failure to include your username in the terminal screenshot may result in a grade of zero for that task.
-Once you complete all the tasks, push your work to GitHub.
+Before You Begin:
+- Open your local Git repository **`SRT111F2026`** on your computer.
+- Create a new folder named **`Lab01`** inside the repository.
+- Open the **`Lab01`** folder in VS Code.
+- Create all Python files for this lab (`task5.py`, `task6.py`, `task7.py`, and `task8.py`) inside the **`Lab01`** folder.
+- For each task:
+   - Run the script using the VS Code terminal
+   - Take a screenshot that clearly shows:  
+      - Your code in the editor.  
+      - The terminal output, including your username visible in the terminal.  
+   - Insert the screenshots into a Word document under the heading. You will export this word document to PDF and submit it on Blackboard.
 
 ## Task 5 — Strings Formatting
 **Objective:** Practice working with strings, string methods, and formatted output in Python
@@ -244,14 +233,14 @@ Once you complete all the tasks, push your work to GitHub.
 
 ---
 
-## Reflection
+## Reflection [20% marks]
 At the end of your word document, answer the following questions in your own words. Use 2-4 sentences for each question.
 1. In your own words, what is **dynamic typing** in Python? How did you see it in action in these exercises?  
 2. What is the difference between **indexing** and **slicing** when working with strings?   
 3. What are your key takeaways from this lab? 
 
 ## Part B Sign-Off
-- Push your Lab01 folder to GitHub repo.
+- Commit and push your Lab01 folder to GitHub repo `SRT111F2026`.
 - Submit a PDF named using your Seneca username, **<your-username>.pdf** on *Blackbaord*.
 - Your PDF must include:
     - Task 5 screenshot(s)
