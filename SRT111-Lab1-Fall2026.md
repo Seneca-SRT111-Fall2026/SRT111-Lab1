@@ -1,7 +1,7 @@
 
 <div align="center">
    
-<h1>SRT111 Lab 1 (Fall 2026)</h1>
+<h2>SRT111 Lab 1 (Fall 2026)</h2>
 <h2>Introduction to Python Programming</h2>
 
 <strong>Created by:</strong> Tiayyba Riaz<br>
