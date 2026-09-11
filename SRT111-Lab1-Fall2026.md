@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<p style="font-size: 28px; font-weight: bold; margin-bottom: 5px;">
+<p style="font-size: 48px; font-weight: bold; margin-bottom: 5px;">
 SRT111 Lab 1 (Fall 2026)
 </p>
 
