@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>SRT111 Lab 1 (Fall 2026)</h1>
-<h2>Introduction to Python Programming</h2>
+<h1>SRT111 Lab 1 - Fall 2026</h1>
 
 <strong>Prepared by:</strong> Tiayyba Riaz  
 <strong>Total Marks: 10 </strong>  
