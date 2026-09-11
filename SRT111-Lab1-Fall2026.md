@@ -1,15 +1,16 @@
 
 <div align="center">
-   
-<h2>SRT111 Lab 1 (Fall 2026)</h2>
+
+<h1>SRT111 Lab 1 (Fall 2026)</h1>
 <h2>Introduction to Python Programming</h2>
 
-<strong>Created by:</strong> Tiayyba Riaz<br>
-<strong>Total Marks:</strong> 10<br>
+<p>
+<strong>Created by:</strong> Tiayyba Riaz &nbsp; | &nbsp;
+<strong>Total Marks:</strong> 10 &nbsp; | &nbsp;
 <strong>Percentage Towards Final Grade:</strong> 2%
+</p>
 
 </div>
-
 In this lab, you will create and execute several simple Python scripts to practice fundamental programming concepts. The lab is divided into two parts:
 
 - **Part A: In-Class Lab** (must be completed during the scheduled lab period and demonstrated to the professor for grading).
